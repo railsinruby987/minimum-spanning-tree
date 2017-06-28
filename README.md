@@ -1,2 +1,3 @@
-# minimum-spanning-tree
-Prim's algorithm to find minimum spanning tree implement in Java. 
+# Minimum-spanning-tree using Prim's Algorithm (Graph Theory)
+Prim's algorithm to find minimum spanning tree, implemented in Java. 
+
